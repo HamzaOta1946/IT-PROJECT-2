@@ -15,29 +15,11 @@ p {
 
 
 
-#header {
-	margin:0 1px;
-}
-
-#bg {
-	height:36px;
-	background:url('http://img840.imageshack.us/img840/9886/87926428.gif') repeat-x;
-}
-
-#main-content {
-	margin:0 auto;
-}
-
-#main-image {
-	text-align:center;
-}
-
-
 
 .sidebar {
-	width:218px;
+	
 	margin:0 auto;
-	padding:10px 25px;
+	
 	background:url('http://img404.imageshack.us/img404/3092/shadowh.jpg') no-repeat top;
 }
 
